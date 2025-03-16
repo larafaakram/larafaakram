@@ -2,6 +2,10 @@ Welcome to my GitHub Profile 👋
 
 
 Leveraging cloud technologies to drive business transformation and deliver scalable, secure, and cost-effective IT solutions. Passionate about continuous learning and Cloud Technologies
+
+Hello, I'm Mohamed AKRAM LARAFA, a computer scientist with over 12 years' experience between software development, DevOps system administration and cloud architecture design, and a passion for continuous learning and exploring new technologies.
+
+My career began as a Python Developer specializing in Odoo ERP, where I gained solid experience in custom module development, API integration and business process optimization. Also skilled in Odoo functional parameterization, accounting workflow management, CRM, sales and purchasing. Over the years, I've made the transition to systems administration and cloud computing technologies, where I specialize in building and redesigning IT systems to unleash their full potential in the cloud.
 <!--
 **larafaakram/larafaakram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
